@@ -12,7 +12,7 @@
     <!--mvc的注解驱动-->
     <!--<mvc:annotation-driven/>-->
     <!-- 自动扫描与装配bean,一旦有扫描器的定义,mvc:annotation-driven不需要，扫描器中包含驱动-->
-    <context:component-scan base-package="com.hm"/>
+    <context:component-scan base-package="com.amazingfour"/>
 
     <!--导入外部的配置文件-->
     <bean id="propertiesConfig" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">

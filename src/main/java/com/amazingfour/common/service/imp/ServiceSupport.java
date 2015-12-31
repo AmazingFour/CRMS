@@ -1,8 +1,9 @@
 package com.amazingfour.common.service.imp;
 
-import com.hm.common.dao.imp.DaoSupportImp;
-import com.hm.common.service.BaseService;
-import com.hm.common.utils.QueryHelper;
+
+import com.amazingfour.common.dao.imp.DaoSupportImp;
+import com.amazingfour.common.service.BaseService;
+import com.amazingfour.common.utils.QueryHelper;
 import org.springframework.transaction.annotation.Transactional;
 
 import org.springframework.stereotype.Repository;

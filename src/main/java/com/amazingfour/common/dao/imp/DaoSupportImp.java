@@ -1,11 +1,11 @@
 package com.amazingfour.common.dao.imp;
 
-import com.hm.common.dao.DaoSupport;
-import com.hm.common.utils.QueryHelper;
+
+import com.amazingfour.common.dao.DaoSupport;
+import com.amazingfour.common.utils.QueryHelper;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.transaction.annotation.Transactional;
 
 
 import java.util.List;

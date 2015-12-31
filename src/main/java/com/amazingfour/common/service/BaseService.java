@@ -1,6 +1,7 @@
 package com.amazingfour.common.service;
 
-import com.hm.common.utils.QueryHelper;
+
+import com.amazingfour.common.utils.QueryHelper;
 
 import java.util.List;
 
